@@ -12,12 +12,14 @@
 	src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script
 	src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link href="/jspchat_web/css/main.css" rel="stylesheet">
+<link href="/jspchat_web/css/allfile.css" rel="stylesheet">
 </head>
 <body>
 <h1>Hello, world!</h1>
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 		<div class="container">
-			<a class="navbar-brand" href="#"> 정보나눠 </a>
+			<a class="navbar-brand" href="/jspchat_web/main.jsp"> 정보나눠 </a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse"
 				data-target="#navbarResponsive" aria-controls="navbarResponsive"
 				aria-expanded="false" aria-label="Toggle navigation">
@@ -28,8 +30,8 @@
 					<li class="nav-item active"><a class="nav-link" href="#">준비중
 							<span class="sr-only">(current)</span>
 					</a></li>
-					<li class="nav-item"><a class="nav-link" href="member/login.jsp">로그인</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">회원가입</a>
+					<li class="nav-item"><a class="nav-link" href="/jspchat_web/member/login.jsp">로그인</a></li>
+					<li class="nav-item"><a class="nav-link" href="/jspchat_web/member/singup.jsp">회원가입</a>
 					</li>
 					<li class="nav-item"><a class="nav-link" href="#">채팅방목록</a>
 					</li>
