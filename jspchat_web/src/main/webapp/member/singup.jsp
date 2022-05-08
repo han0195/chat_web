@@ -37,7 +37,7 @@
 							<div class="form-group col-md-12">
 								이름 <input type="text" class="form-control" id="inputName4"
 									name="mname" placeholder="이름을 입력해주세요">
-							</div>
+							</div>   
 							<div class="form-group col-md-12">
 								이메일 <input type="text" class="form-control" id="inputName4"
 									name="memail" placeholder="이메일을 입력해주세요">
