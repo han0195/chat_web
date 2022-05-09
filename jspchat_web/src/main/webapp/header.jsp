@@ -27,7 +27,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item active"><a class="nav-link" href="#">준비중
+					<li class="nav-item active"><a class="nav-link" href="#">고객센터
 							<span class="sr-only">(current)</span>
 					</a></li>
 					<li class="nav-item"><a class="nav-link" href="/jspchat_web/member/login.jsp">로그인</a></li>

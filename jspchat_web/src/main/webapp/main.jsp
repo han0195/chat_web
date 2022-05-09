@@ -116,7 +116,7 @@
 	</section>
 	<section class="main">
 		<div class="container mt-4">
-			<h1 class="text-center mb-4 p-4 text-secondary">From The Blog</h1>
+			<h1 class="text-center mb-4 p-4 text-secondary">실시간 퀴즈왕 순위</h1>
 			<div class="row">
 
 				<div class="card-columns">
@@ -125,31 +125,20 @@
 							src="https://4.bp.blogspot.com/-InDD3Hm_bhU/XB4_TK3TT7I/AAAAAAAAAJ4/r5tUeCOqq1MTchFh7D7pWdf582A4qYIIwCEwYBhgL/s1600/Businesswoman-working-at-a-computer-1280x720.jpg"
 							alt="Card image cap">
 						<div class="card-body">
-							<h5 class="card-title">Card title that wraps to a new line</h5>
-							<p class="card-text">This is a longer card with supporting
-								text below as a natural lead-in to additional content. This
-								content is a little bit longer.</p>
+							<h5 class="card-title">이달의 질문왕</h5>
+							<p class="card-text">매달 10일 기준 질문 횟수</p>
 						</div>
 					</div>
 					<div class="card shadow border-0  p-3">
-						<blockquote class="blockquote mb-0 card-body">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-								Integer posuere erat a ante.</p>
-							<footer class="blockquote-footer">
-								<small class="text-muted"> Someone famous in <cite
-									title="Source Title">Source Title</cite>
-								</small>
-							</footer>
-						</blockquote>
+						순위 DIV
 					</div>
 					<div class="card shadow border-0">
 						<img class="card-img-top"
 							src="https://4.bp.blogspot.com/-InDD3Hm_bhU/XB4_TK3TT7I/AAAAAAAAAJ4/r5tUeCOqq1MTchFh7D7pWdf582A4qYIIwCEwYBhgL/s1600/Businesswoman-working-at-a-computer-1280x720.jpg"
 							alt="Card image cap">
 						<div class="card-body">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-text">This card has supporting text below as a
-								natural lead-in to additional content.</p>
+							<h5 class="card-title">테스트제목</h5>
+							<p class="card-text">테스트테스트테스테스트</p>
 							<p class="card-text">
 								<small class="text-muted">Last updated 3 mins ago</small>
 							</p>
